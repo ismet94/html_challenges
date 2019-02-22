@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Simple Forms</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="main.js"></script>
+    <style>
+        /* Stylng for the survey page */
+    body {
+        background-color: burlywood;
+        font-family: fantasy;
+        font-size: 20px;
+    }
+    p {
+        font-family: Helvetica;
+       
+    }
+    input{
+        text-align: left;
+    }
+    label{
+        text-align: left;
+    }
+    </style>
+</head>
+    <body>
+        <!-- Main Heading added -->
+        <h1 align=center>The Coffee Company LTD</h1>
+            <!-- A hr tag to spilt the heading from the form -->
+            <hr>
+            <!-- Opening of the form -->
+            <form action="">
+                <!-- Paragraph to desccrbe the survey -->
+                <p>A short survey to improve feedback in real time. Please fill in the form below and <strong>submit</strong>  as soon as completed.</p> 
+                    <!-- Label tags added for the customers information -->
+                    <label for="">Name: </label>
+                    <input type="text" name="" id="" placeholder="Your Name">
+                <br>
+                <br>
+                    <label for="">Surname: </label>
+                    <input type="text" name="" id="" placeholder="Your Surname">
+                <br>
+                <br>
+                    <!-- Text box tha holds the customers number to a max length of 10 numbers -->
+                    <label for="">Cell Number: </label>
+                    <input type="number" name="" id="Number" maxlength="10" placeholder="Your Cell Number">
+                <br>
+                <br>
+                    <!-- A password for the customer -->
+                    <label for="">Password: </label>
+                    <input type="password" name="" id="Number" placeholder="Your Password">
+                <br>
+                <br>
+                    <!-- Customer can select a gender with radio buttons -->
+                    <label for="">Male:</label>
+                    <input type="radio" name="" id="1">
+                <br>
+                    <label for="">Female:</label>
+                    <input type="radio" name="" id="2">
+                <br>
+                    <label for="">None:</label>
+                    <input type="radio" name="" id="3">
+                <br>
+                <br>
+                    <!-- Date of birth added wth the calendar input -->
+                    <label for="">Date Of Birth:</label>
+                    <input type="date" name="" id="">
+                <br>
+                <br>
+                    <!-- A drop down list for the customer to chose a favourite coffee -->
+                    <label for="">Favourite Coffee: </label>
+                    <select name="" id="">
+                        <option value=""></option>
+                        <option value="">Black Coffee</option>
+                        <option value="">Creamy Coffee</option>
+                        <option value="">Cuppaccino</option>
+                        <option value="">Espresso</option>
+                        <option value="">Moccaccino</option>
+                        <option value="">Hot Chocolate Coffee</option>
+                    </select>
+                    <br>
+                    <br>
+                    <!-- Questions below needed from the customers for feedback -->
+                    Please answer all the questions below
+                    <br>
+                        <p>How often do you visit coffee shops?</p> 
+                        <input type="text" cols="30"name="" id="">
+                        <p>What is your favorite coffee shop? Where is it located?</p>
+                        <input type="text" cols="30"name="" id="">
+                        <p>What do you typically order to drink?</p>
+                        <input type="text" cols="30"name="" id="">
+                        <p>Do you prefer large, national chain coffee shops or small, privately owned coffee shops?</p>
+                        <input type="text" cols="30"name="" id="">
+                   
+                <br>
+                <hr>
+                <!-- Validation for the customer with a checkbox -->
+                <p>Is all of the above information correct? if so tick the tick box and send away!</p>
+                <label for="">Agree</label> <input type="checkbox" name="" id="">
+                <br>
+                <label for="">Disagree</label> <input type="checkbox" name="" id="">
+                <br>
+                <!-- Text area added for a comment from the customer -->
+                <h3>Additional comments</h3>
+                <textarea name="" id="" cols="30" rows="10" placeholder="Your Comment"></textarea>
+                <br>
+                <br>
+                <!-- A button to submit results -->
+                <input type="submit" value="Send Away!">
+                <!-- A button to reset all -->
+                <input type="reset" value="Reset">
+            </form>
+    </body>
+</html>

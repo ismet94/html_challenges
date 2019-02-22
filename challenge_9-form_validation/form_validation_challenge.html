@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8" />
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <!-- Created a title for the webpage -->
+   <title>Form Validation Challenge</title>
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Styling is added to the webpage -->
+   <style media="screen">
+     h1 {
+       text-align: center;
+     }
+
+     span {
+       float:  right;
+     }
+
+     .btn {
+       text-align: center;
+     }
+     .text {
+         vertical-align: top;
+     }
+   </style>
+
+</head>
+
+
+<body>
+    <!-- Main heading is added with the center format -->
+   <h1>Registration Form</h1>
+
+   <form action="post">
+       <!-- A table tag is added to give the form proper positioning -->
+    <table align="center">
+        <tbody>
+            <tr>
+                <!-- Added a all labels and text boxes -->
+                <td><span>User id:</span></td>
+                <td><input type="text" size="8px" required minlength="5" maxlength="12" placeholder="Required"></td>
+            </tr>
+            <tr>
+                <!--password label is created -->
+                <td> <span>Password:</span>  </td>
+                <td><input type="password" size="8px" minlength="7" maxlength="12" placeholder="Required"></td>
+            </tr>
+            <tr>
+                <td><span>Name:</span></td>
+                <td><input type="text" name="fname" required placeholder="Alphabets only"> </td>
+            </tr>
+            <tr>
+                <td><span>Address:</span></td>
+                <td><input type="text" placeholder="Optional"> </td>
+            </tr>
+            <tr>
+                <!-- A drop down lsit is added to select a country -->
+                <td><span>Country:</span></td>
+                <td>
+                    <select width="20px" required>
+                    <option value="">(Please select a country) </option>
+                    <option value="canada">England</option>
+                    <option value="south-africa">South Africa</option>
+                    <option value="brazil">Russia</option>
+                    <option value="china">America</option>
+                    <option value="china">Australia</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <!-- Zip code label is added with proper number and length added -->
+                <td><span>ZIP Code:</span></td>
+                <td><input type="text" placeholder="Required" required pattern="[0-9]{4}"></td>
+            </tr>
+            <tr>
+                <!-- Email added with the '@' symbol required -->
+                <td><span>Email:</span></td>
+                <td><input type="email" name="" value="" placeholder="youremail@example.com"> </td>
+            </tr>
+            <tr>
+                <td><span>Sex:</span></td>
+                <td><input type="radio" name="sex">Male</td>
+                <td><input type="radio" name="sex">Female</td>
+            </tr>
+            <tr>
+                <td><span>Language:</span></td>
+                <td><input type="checkbox" name="language" value="">English
+                <input type="checkbox" name="language" value="">Non-English</td>
+            </tr>
+            <tr>
+                <!-- Addtional comment added can be optional for the user -->
+                <td class="text"><span>About:</span></td>
+                <td><textarea name="name" rows="10" cols="25" placeholder="Optional"></textarea></td>
+            </tr>
+       </tbody>
+   </table>
+        <!-- A submit button added for the results to be sent through -->
+       <div class="btn">
+          <input type="submit" name="" value="Submit">
+       </div>
+   </form>
+</body>
+</html>
