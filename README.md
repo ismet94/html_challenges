@@ -11,13 +11,13 @@ Challenge 4 List tag exercise - Created a web page that has an ordered list and 
 
 Challenge 5 Article - Created a web page from a link provided in order to make it look simalar to that. All included is links, images and italics and bold tags. This helped me with adding images and making paragraphs with links in them. 
 
-Challenge 6 Tables - 
+Challenge 6 Tables - In this challenge I learned to create tables and to created rows and columns. This also helped me to populate all information into the table. It was explained that a table is always created by setting up the headings in the first row from there the table can be populated by entering the <td> tag.
 
-Challenge 7 Nested Tables -
+Challenge 7 Nested Tables - In this challenge a simple form has to be created for a customers details and favourites to output a feedback overall. This helped me with setting up forms to create a survey or any other information that could be recorded using the form tag.
 
-Challenge 8 Simple Forms -
+Challenge 8 Simple Forms - In this challenge a simple form has to be created for a customers details and favourites to output a feedback overall. This helped me with setting up forms to create a survey or any other information that could be recorded using the form tag.
 
-Challenge 9 Form Validation - 
+Challenge 9 Form Validation - In this challenge a more complex form is created with the use of the previous challenge. Here I had to perfect validation when certain attributes aren't inserted. This helped with ordering and positioning each input and label with a table tag format.
 
 Challenge 10 Hyperlinks -
 
@@ -48,7 +48,7 @@ git pull
 
 ## Live Link
 
-- 
+- https://ismet94.github.io/html_challenges/
 
 ## Prevalent Technologies Used
 
@@ -81,11 +81,42 @@ Tools:
 
 2018-11-19:
 - Base folders added
+- Readme Created and edited
+- Created the headings_paragraphs_challenge.html 
+- Completed challenge 1 
+- Created the paragraph_tag_exercise.html 
+- Completed challenge 2
+- Uploaded to github
+
+2018-11-20:
+- Base folders added including images folder
+- Created the lists_textformatting_images_challenge.html 
+- Completed challenge 3 
+- Created the list_tags.html file
+- Completed challenge 4
+- Updated Readme file
+- Uploaded to github
+
+2018-11-21:
+- Base folders added and images folder for challenge 6
 - Created the article_challenge.html file
+- Completed challenge 5
+- Created the tables_challenge.html file
+- Completed challenge 6
+- Updated Readme file
+- Uploaded to github
+
+2018-11-22:
+- Base folders added
+- Created the nested_table_challenge.html file
+- Completed challenge 7
+- Created the forms_challenge.html file
+- Completed challenge 8
 - Readme Created 
 - Updated Readme file
 - Uploaded to github
 
+2018-11-26:
 
 
 ## Contributors

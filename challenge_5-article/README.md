@@ -1,20 +1,20 @@
-# Tables Challenge
+# Article Challenge
 
-In this challenge I learned to create tables and to created rows and columns. This also helped me to populate all information into the table. It was explained that a table is always created by setting up the headings in the first row from there the table can be populated by entering the <td> tag.
+Created a web page from a link provided in order to make it look simalar to that. All included is links, images and italics and bold tags. This helped me with adding images and making paragraphs with links in them. 
 
 ## Setting up your workspace
 
 - Create a new repository on the Github
 - Save to desired directory
 - Created a base folder structure this included the images folder
-- Created the tables_challenge.html file
+- Created the article_challenge.html file
 - Updated all information using the push function with the GitBash
 - Created Live Link as listed below
 - Updated Readme file
 
 ## Live Link
 
-- https://ismet94.github.io/tables_challenge/
+- https://ismet94.github.io/article_challenge/
 
 ## Prevalent Technologies Used
 
@@ -25,7 +25,7 @@ In this challenge I learned to create tables and to created rows and columns. Th
 Technologies and Tools Used:
 
 - HTML5 Guide Book
-- Google Research 
+- Google Research
 
 Languages:
 
@@ -44,7 +44,7 @@ Tools:
 
 2018-11-19:
 - Base folders added
-- Created the tables_challenge.html file
+- Created the article_challenge.html file
 - Readme Created 
 - Updated Readme file
 - Uploaded to github
@@ -52,7 +52,6 @@ Tools:
 ## Contributors
 
 Ismet Samsodien - 2018
-
 
 
 
