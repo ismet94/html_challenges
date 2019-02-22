@@ -4,8 +4,7 @@ Challenge 1 Headings and Paragraphs - Created a web page by using headings, tags
 
 Challenge 2 Paragraph Tag - Created a web page by using paragraphs learned that web browsers does not take note of what line your current code is on nor does it take any note of the spaces. This helped me to space my code properly.
 
-Challenge 3 Lists text formatting - Created a web page that includes images, headings and some descriptive text. I learned how to add images to my webpage and creating ordered and unordered lists. It gets more complex when making the bullets into squares and I also added the 
-<em> and <strong> tags which is to make text italics and bold.
+Challenge 3 Lists text formatting - Created a web page that includes images, headings and some descriptive text. I learned how to add images to my webpage and creating ordered and unordered lists. It gets more complex when making the bullets into squares.
 
 Challenge 4 List tag exercise - Created a web page that has an ordered list and an unordered list.
 
@@ -15,13 +14,14 @@ Challenge 6 Tables - In this challenge I learned to create tables and to created
 
 Challenge 7 Nested Tables - In this challenge a simple form has to be created for a customers details and favourites to output a feedback overall. This helped me with setting up forms to create a survey or any other information that could be recorded using the form tag.
 
-Challenge 8 Simple Forms - In this challenge a simple form has to be created for a customers details and favourites to output a feedback overall. This helped me with setting up forms to create a survey or any other information that could be recorded using the form tag.
+Challenge 8 Simple Forms - In this challenge a simple form has to be created for a customers details and favourites to output  feedback. This helped me with setting up forms to create a survey or any other information that could be recorded using the form tag.
 
 Challenge 9 Form Validation - In this challenge a more complex form is created with the use of the previous challenge. Here I had to perfect validation when certain attributes aren't inserted. This helped with ordering and positioning each input and label with a table tag format.
 
-Challenge 10 Hyperlinks -
+Challenge 10 Hyperlinks - Created a web page that includes hyperlinks, lists, forms and an embedded link. Here I learned to add a video to my webpage and have a variety of tags mixed into one webpage. I included an image of myself that when clicked on it, it would take you to my facebook page.
 
-Challenge 11 Semantic -
+Challenge 11 Semantic - In this challenge the semantic challenge added the navigation tabs where you could scroll through other pages. This also helped me with adding proper comments and removing dividers.Overall different kind of sections, footers and headers has specific functions in a webpage that could be used for different techniques.
+
 
 ## Setting up your workspace
 
@@ -117,6 +117,23 @@ Tools:
 - Uploaded to github
 
 2018-11-26:
+- Base folders added
+- Created the form_validation_challenge.html file
+- Completed challenge 9
+- Created the hyperlinks_challenge.html 
+- Completed challenge 10
+- Readme Created 
+- Updated Readme file
+- Uploaded to github
+
+2018-11-27:
+
+- Base folders added
+- Created the html_webpage_challenge.html file
+- Completed Challenge 11
+- Readme Created 
+- Updated Readme file
+- Uploaded to github
 
 
 ## Contributors
