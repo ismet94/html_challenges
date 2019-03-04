@@ -20,7 +20,7 @@ Challenge 9 Form Validation - In this challenge a more complex form is created w
 
 Challenge 10 Hyperlinks - Created a web page that includes hyperlinks, lists, forms and an embedded link. Here I learned to add a video to my webpage and have a variety of tags mixed into one webpage. I included an image of myself that when clicked on it, it would take you to my facebook page.
 
-Challenge 11 Semantic - In this challenge the semantic challenge added the navigation tabs where you could scroll through other pages. This also helped me with adding proper comments and removing dividers.Overall different kind of sections, footers and headers has specific functions in a webpage that could be used for different techniques.
+Challenge 11 Semantics - In this challenge the semantic challenge added the navigation tabs where you could scroll through other pages. This also helped me with adding proper comments and removing dividers.Overall different kind of sections, footers and headers has specific functions in a webpage that could be used for different techniques.
 
 
 ## Setting up your workspace
